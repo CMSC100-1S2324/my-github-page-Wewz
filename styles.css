@@ -50,11 +50,12 @@ li a:hover {
     width: 100%;
 }
 
-.all-proj-container {
+.all-proj-container, .about-me-div {
     background-color: #040c0e;
     width: 80%;
     margin:auto;
-    padding-bottom: 25px;
+    padding-bottom: 50px;
+    padding-top: 25px;
     margin-bottom: 150px;
 }
 
@@ -97,6 +98,22 @@ li a:hover {
     margin-right: 150px;
 }
 
+.about-me-div {
+    display: flex;
+    justify-content: center;
+    background-color: #040c0e;
+}
 
+.content-div {
+    color: white;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
 
+.content {
+    font-size: 12px;
+    font-weight: 12;
+}
 
