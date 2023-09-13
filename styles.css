@@ -46,11 +46,57 @@ li a:hover {
 }
 
 .my-pic {
-    margin-top: 70px;
-    width: 60%;
+    margin-bottom: 150px;
+    width: 100%;
 }
 
-.my-pic-div {
+.all-proj-container {
+    background-color: #040c0e;
+    width: 80%;
+    margin:auto;
+    padding-bottom: 25px;
+    margin-bottom: 150px;
+}
+
+.title-div {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.title {
+    font-weight: 15;
+    font-size: 25px;
+    color: white;
+}
+
+.projects-container {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.project {
     display: flex;
     justify-content: center;
 }
+
+.proj {
+    width: 70%;
+}
+
+#proj1 {
+    margin-left: 150px;
+}
+
+#proj3 {
+    margin-right: 150px;
+}
+
+
+
+
