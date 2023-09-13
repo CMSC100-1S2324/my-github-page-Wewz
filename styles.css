@@ -1,0 +1,10 @@
+.navbar {
+    display: flex;
+    flex: auto;
+    background-color: turquoise;
+}
+
+.Flex-Container {
+    background-color:thistle;
+    padding: 20in;
+}
