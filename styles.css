@@ -114,6 +114,32 @@ li a:hover {
 
 .content {
     font-size: 12px;
-    font-weight: 12;
+    font-weight: 10;
 }
 
+.footer {
+    background-color: #040c0e;
+    display: flex;
+    padding-bottom: 20px;
+}
+
+#logo-footer {
+    width: fit-content;
+    height: 100px;
+    margin-top: 15px;
+    margin-left: 100px;
+}
+
+.footer-content-div {
+    font-size: 12px;
+    font-weight:lighter;
+}
+
+.footer-content {
+    margin: 5px;
+    color: white;
+}
+
+#name {
+    margin-top: 20px;
+}
